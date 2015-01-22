@@ -20,6 +20,7 @@ namespace WindowsFormsApplication2
 
         public void test01() {
             string a = string.Empty;
+            string b = "";
         }
     }
 }
