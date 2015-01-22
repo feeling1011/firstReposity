@@ -18,7 +18,8 @@ namespace WindowsFormsApplication2
             Application.Run(new Form1());
         }
 
-        public void test01() { 
+        public void test01() {
+            string a = string.Empty;
         }
     }
 }
